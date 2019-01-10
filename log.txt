@@ -1,0 +1,11 @@
+Error: Error
+Error: Error
+Info: Info
+Info: Info
+Warning: Warning
+Error: Error
+Error: Error
+Info: Info
+Info: Info
+Warning: Warning
+Error: 100+100
